@@ -107,7 +107,7 @@ The application is optimized for modern browsers:
 
 ## 🖼️ Screenshots
 
- ![preview](preview.jpeg)
+ ![preview](preview.png)
 
 ## 👨‍💻 Development
 
